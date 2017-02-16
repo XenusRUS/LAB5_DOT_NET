@@ -1,0 +1,8 @@
+/Users/admin/Desktop/c#/LAB5_DOT_NET/LAB5_DOT_NET/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/Users/admin/Desktop/c#/LAB5_DOT_NET/LAB5_DOT_NET/bin/Debug/LAB5_DOT_NET.exe.config
+/Users/admin/Desktop/c#/LAB5_DOT_NET/LAB5_DOT_NET/bin/Debug/LAB5_DOT_NET.exe.mdb
+/Users/admin/Desktop/c#/LAB5_DOT_NET/LAB5_DOT_NET/bin/Debug/LAB5_DOT_NET.pdb
+/Users/admin/Desktop/c#/LAB5_DOT_NET/LAB5_DOT_NET/bin/Debug/LAB5_DOT_NET.exe
+/Users/admin/Desktop/c#/LAB5_DOT_NET/LAB5_DOT_NET/obj/Debug/LAB5_DOT_NET.exe
+/Users/admin/Desktop/c#/LAB5_DOT_NET/LAB5_DOT_NET/obj/Debug/LAB5_DOT_NET.exe.mdb
+/Users/admin/Desktop/c#/LAB5_DOT_NET/LAB5_DOT_NET/obj/Debug/LAB5_DOT_NET.pdb

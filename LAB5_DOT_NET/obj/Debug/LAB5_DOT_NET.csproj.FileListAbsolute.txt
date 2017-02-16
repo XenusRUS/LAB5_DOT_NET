@@ -1,0 +1,6 @@
+c:\users\cfif\documents\visual studio 2015\Projects\LAB5_DOT_NET\LAB5_DOT_NET\bin\Debug\LAB5_DOT_NET.exe.config
+c:\users\cfif\documents\visual studio 2015\Projects\LAB5_DOT_NET\LAB5_DOT_NET\obj\Debug\LAB5_DOT_NET.csprojResolveAssemblyReference.cache
+c:\users\cfif\documents\visual studio 2015\Projects\LAB5_DOT_NET\LAB5_DOT_NET\bin\Debug\LAB5_DOT_NET.exe
+c:\users\cfif\documents\visual studio 2015\Projects\LAB5_DOT_NET\LAB5_DOT_NET\bin\Debug\LAB5_DOT_NET.pdb
+c:\users\cfif\documents\visual studio 2015\Projects\LAB5_DOT_NET\LAB5_DOT_NET\obj\Debug\LAB5_DOT_NET.exe
+c:\users\cfif\documents\visual studio 2015\Projects\LAB5_DOT_NET\LAB5_DOT_NET\obj\Debug\LAB5_DOT_NET.pdb

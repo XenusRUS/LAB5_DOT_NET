@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{9985BC88-1F61-4601-A7D2-915752DB53A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LAB5_DOT_NET/Program.cs">
+    <Files>
+      <File FileName="LAB5_DOT_NET/Program.cs" Line="18" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LAB5__DOT__NET PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
